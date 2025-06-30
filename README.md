@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./_imacKris_.png" alt="iamkrisk Banner Logo" width="100%"/>
+</p>
+
 # Hi there 👋
 
 Welcome to my interactive GitHub profile!
@@ -69,12 +74,18 @@ Welcome to my interactive GitHub profile!
 
 ---
 
-## 🛡️ Custom Badges
+## 🛡️ My Tools
 
 ![Markdown Rocks](https://img.shields.io/badge/Markdown%20Rocks!-purple?style=for-the-badge&logo=markdown)
 ![Open Source](https://img.shields.io/badge/Open%20Source-❤️-blue?style=for-the-badge)
 ![MacOS User](https://img.shields.io/badge/OS-macOS-lightgrey?style=for-the-badge&logo=apple)
-
+![JavaScript]
+![Visual Studio Code]
+![React.Dev]
+![Node.js]
+![Express.js]
+![MongoDB]
+![Docker]
 ---
 
 ## 📅 Today’s Date
@@ -84,19 +95,21 @@ Welcome to my interactive GitHub profile!
 
 ---
 
-## 📝 Collapsible Tech Stack
+
+## 📝 Collapsible Full Stack Skills
 
 <details>
-  <summary><b>My Favorite Tech Stack</b></summary>
+  <summary><b>My Full Stack Skills</b></summary>
   <ul>
-    <li>JavaScript / TypeScript</li>
-    <li>React / Next.js</li>
-    <li>Node.js</li>
-    <li>Python</li>
-    <li>Git & GitHub Actions</li>
-    <li>VS Code</li>
-    <li>macOS</li>
-    <li>OpenAI / Copilot</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Django</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub Actions</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20"/> macOS</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="20"/> OpenAI / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> Copilot</li>
   </ul>
 </details>
 
