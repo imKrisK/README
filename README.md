@@ -2,7 +2,7 @@
 
 ## 🚀 Summary
 
-Results-oriented developer with a strong track record in building scalable web applications and user-centric interfaces. Experienced in modern frontend frameworks (React, Next.js, Vite), robust backend APIs (Node.js, Express), and cross-platform desktop apps (Python/Tkinter). Adept at delivering polished UI/UX, integrating third-party services (Stripe, EmailJS), and maintaining high code quality through TypeScript, automated tooling, and best practices. Proven ability to own projects end-to-end, from architecture to deployment, with a focus on maintainability and user experience.
+Hey, I’m Kris—a chill, focused developer who loves building things that make life easier and more fun. I’m always on the lookout for new ways to innovate, whether it’s crafting smooth web experiences with React and Next.js, building handy APIs, or experimenting with desktop apps in Python. I care about clean code, great design, and learning something new every day. If you’re into creative problem-solving and pushing boundaries, let’s connect and make something awesome together.
 
 ---
 
