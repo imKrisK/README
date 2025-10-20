@@ -2,7 +2,7 @@
 
 ## 🚀 Summary
 
-Hey, I’m Kris—a chill, focused developer who loves building things that make life easier and more fun. I’m always on the lookout for new ways to innovate, whether it’s crafting smooth web experiences with React and Next.js, building handy APIs, or experimenting with desktop apps in Python. I care about clean code, great design, and learning something new every day.
+Hey, I’m Kris—a chill, focused developer who builds things that make life easier and more fun. I’m always on the lookout for new ways to innovate, whether it’s crafting smooth web experiences with React and Next.js, building handy APIs, or experimenting with desktop apps in Python. I care about clean code, great design, and learning something new every day.
 
 **Let’s make this interactive!**
 - Got a cool idea or a challenge? Drop it in the issues or start a discussion.
