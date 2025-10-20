@@ -22,7 +22,7 @@ Hey, I’m Kris—a chill, focused developer who builds things that make life ea
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="React"/> React: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`From-Concept-to-Completion`](https://github.com/imKrisK/From-Concept-to-Completion), [`m7-localfoodtruck`](https://github.com/imKrisK/m7-localfoodtruck)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" alt="Next.js"/> Next.js: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`book-writing-platform`](https://github.com/imKrisK/book-writing-platform)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="24" alt="Vite"/> Vite: [`From-Concept-to-Completion`](https://github.com/imKrisK/From-Concept-to-Completion), [`m7-localfoodtruck`](https://github.com/imKrisK/m7-localfoodtruck)
-- <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark-blue.png" width="24" alt="Tailwind CSS"/> Tailwind CSS: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`book-writing-platform`](https://github.com/imKrisK/book-writing-platform)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.png" width="24" alt="Tailwind CSS"/> Tailwind CSS: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`book-writing-platform`](https://github.com/imKrisK/book-writing-platform)
 - Radix UI: [`book-writing-platform`](https://github.com/imKrisK/book-writing-platform)
 - Framer Motion: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio)
 - Styled JSX: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio)
@@ -36,7 +36,7 @@ Hey, I’m Kris—a chill, focused developer who builds things that make life ea
 
 ### 🧰 Tooling & Deployment
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="24" alt="ESLint"/> ESLint: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`From-Concept-to-Completion`](https://github.com/imKrisK/From-Concept-to-Completion)
-- <img src="https://raw.githubusercontent.com/postcss/postcss/main/logo.svg" width="24" alt="PostCSS"/> PostCSS: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`From-Concept-to-Completion`](https://github.com/imKrisK/From-Concept-to-Completion)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postcss/postcss-plain.png" width="24" alt="PostCSS"/> PostCSS: [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio), [`From-Concept-to-Completion`](https://github.com/imKrisK/From-Concept-to-Completion)
 - Axios: [`m7-localfoodtruck`](https://github.com/imKrisK/m7-localfoodtruck)
 - Testing Library: [`m7-localfoodtruck`](https://github.com/imKrisK/m7-localfoodtruck)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"/> Node.js (Custom scripts): [`My_Portfolio`](https://github.com/imKrisK/My_Portfolio)
